@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0; 
+    background-color:#fff;
+    font-family: 'Libre Baskerville', serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+section , footer , header{
+    width: auto;
+    height: auto;
+    overflow: hidden;
+    max-width: 100%;
+}
+a{
+    text-decoration: none !important;
+}
+span{
+    display: block;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+button{
+    display: block;
+    border: none
+}
